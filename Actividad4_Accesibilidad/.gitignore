@@ -1,0 +1,56 @@
+# =========================
+# Android / Gradle project
+# =========================
+
+# Build artifacts
+*.apk
+*.ap_
+*.aab
+
+# ART/Dalvik VM files
+*.dex
+
+# Java/Kotlin class files
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+
+# Gradle
+.gradle/
+build/
+
+# Local configuration (SDK path, keys, etc.)
+local.properties
+
+# Proguard / R8
+proguard/
+*.pro
+
+# IntelliJ / Android Studio
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# NDK / CMake / Native builds
+.cxx/
+.externalNativeBuild/
+
+# Captures (screenshots / recordings)
+captures/
+
+# Logs
+*.log
+
+# OS specific
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Backup / patch
+*.orig
+*.rej
